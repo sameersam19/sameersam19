@@ -55,7 +55,7 @@ I'm a results-driven data professional with deep experience in **MS SQL Server**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sameersam19)
 - 💻 [GitHub](https://github.com/sameersam19)
-- 📧 Email: yourname@example.com
+- 📧 Email: sameerbellary19@gmail.com
 
 ---
 
