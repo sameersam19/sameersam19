@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Bellary
 
-🎯 SQL Developer | ☁️ Microsoft Azure Enthusiast | 📊 Data Solutions Expert  
+🎯 SQL DBA | ☁️ Microsoft Azure Enthusiast | 📊 Data Solutions Expert  
 5+ years of experience building efficient, scalable, and cloud-integrated SQL solutions.
 
 ---
